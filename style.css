@@ -1,0 +1,39 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+* {
+  font-family: Dancing Script, cursive
+}
+
+
+body {
+  background-image: linear-gradient(to right, #F1DBC9, #F2C3A7);
+  font-size: 25px
+}
+
+main {
+  background-color: white;
+  padding: 10px;
+  box-shadow: 3px 3px 15px #826b5e;
+  border-radius: 17px;
+  margin: auto;
+}
+
+h1 {
+  color: #F39209;
+  text-shadow: 0.5px 0.5px 0.5px #B36200;
+  font-size: 40px
+}
+
+h2 {
+  color: #125189;
+  font-size: 30px
+}
+
+summary {
+  color: #125189;
+}
+
+details {
+  color: #120089;
+}
